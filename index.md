@@ -1,6 +1,6 @@
 ---
 layout: boiler
-title: Home
+foo: Home
 ---
 # Trying out GitHub Pages
 This could be a website for poems! Or maybe not...
