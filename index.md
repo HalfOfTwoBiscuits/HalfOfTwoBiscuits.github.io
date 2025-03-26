@@ -15,10 +15,10 @@ This could be a website for poems! Or maybe not...
 
 </div>
 <div class='row'>
-    <div class='col' markdown=1>
+    <div class='col' markdown="1">
         ### Left Section
     </div>
-    <div class='col' markdown=1>
+    <div class='col' markdown="1">
         ### Right Section
     </div>
 </div>
