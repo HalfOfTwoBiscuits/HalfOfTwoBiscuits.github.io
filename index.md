@@ -12,20 +12,17 @@ This could be a website for poems! Or maybe not...
         flex-direction: row;
     }
 </style>
-<div class='row' markdown=1>
-
-    Hello! I'm in a row!
+<div class='row'>
+    ### Hello! I'm in a row!
     - Oh cool, a list in a row. Wow.
     - Another list item,
     - and another.
-
 </div>
 <div class='row'>
-    <div class='col' markdown=1>
+    <div class='col'>
         ### Left Section
     </div>
-
-    <div class='col' markdown=1>
-        ### Right section
+    <div class='col'>
+        ### Right Section
     </div>
 </div>
