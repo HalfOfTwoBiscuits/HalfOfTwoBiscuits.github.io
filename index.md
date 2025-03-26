@@ -6,14 +6,14 @@ foo: Home
 This could be a website for poems! Or maybe not...
 
 ## Here's a test of some HTML mixed in.
-<span class='row'>
+<div class='row' markdown="1">
     ### Hello! I'm in a row!
     - Oh cool, a list in a row. Wow.
     - Another list item,
     - and another.
 </span>
 <span class='row'>
-    <span class='col'>
+    <span class='col' markdown="1">
         ### Left Section
     </span>
     <span class='col' markdown="1">
