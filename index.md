@@ -2,16 +2,7 @@
 This could be a website for poems! Or maybe not...
 
 ## Here's a test of some HTML mixed in.
-<style>
-    .row {
-        display: flex;
-        flex-direction: row;
-    }
-    .col {
-        display: flex;
-        flex-direction: row;
-    }
-</style>
+<link rel='stylesheet' href='tables.css'>
 <div class='row'>
     ### Hello! I'm in a row!
     - Oh cool, a list in a row. Wow.
