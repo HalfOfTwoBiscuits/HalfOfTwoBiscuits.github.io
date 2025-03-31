@@ -1,5 +1,4 @@
 ---
-layout: boiler
 foo: Home
 ---
 # Trying out GitHub Pages
