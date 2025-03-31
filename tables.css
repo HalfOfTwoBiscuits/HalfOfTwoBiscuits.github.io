@@ -1,10 +1,10 @@
 .row {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: normal;
 }
 .col {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: normal;
 }
